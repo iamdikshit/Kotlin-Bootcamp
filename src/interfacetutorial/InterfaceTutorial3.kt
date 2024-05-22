@@ -19,10 +19,14 @@ class ButtonInterfaceClass3 : ClickableInterface3,ClickableInterface3a{
         super<ClickableInterface3a>.showOff()
         super<ClickableInterface3>.showOff()
     }
+    fun printable(){
+        println("I am from printable..!!")
+    }
 }
 
 fun main(){
     val buttonObject3a = ButtonInterfaceClass3()
     buttonObject3a.click()
     buttonObject3a.showOff()
+    buttonObject3a.printable()
 }
