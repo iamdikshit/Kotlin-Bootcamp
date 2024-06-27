@@ -1,4 +1,4 @@
-package modifierTutorial
+package oopsproblems.modifierTutorial
 
 abstract class ModifierTutorialAbstactClass1 {
     // abstract function : must be overridden in subclass

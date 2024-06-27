@@ -1,4 +1,4 @@
-package otherClasses
+package oopsproblems.otherClasses
 
 
 // Nested Classes

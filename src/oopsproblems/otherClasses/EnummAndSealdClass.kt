@@ -1,4 +1,4 @@
-package otherClasses
+package oopsproblems.otherClasses
 
 /*
 * ENUM : class work with constant value means its value will not change once defined

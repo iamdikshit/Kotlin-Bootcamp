@@ -1,4 +1,4 @@
-package modifierTutorial
+package oopsproblems.modifierTutorial
 
 // Base class : by default it is final unless and until we marked it as open or abstract
 // we can't inherit this base class because of final

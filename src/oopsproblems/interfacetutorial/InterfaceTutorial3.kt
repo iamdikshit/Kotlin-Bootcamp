@@ -1,4 +1,4 @@
-package interfacetutorial
+package oopsproblems.interfacetutorial
 
 // Class implementing from two interface
 interface ClickableInterface3{
@@ -10,7 +10,7 @@ interface ClickableInterface3a{
     fun showOff( ) = println("I am show off from 3a..")
 }
 
-class ButtonInterfaceClass3 : ClickableInterface3,ClickableInterface3a{
+class ButtonInterfaceClass3 : ClickableInterface3, ClickableInterface3a {
     override fun click() {
        println("I was clicked..")
     }

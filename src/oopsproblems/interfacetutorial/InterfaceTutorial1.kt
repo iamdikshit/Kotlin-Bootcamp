@@ -1,4 +1,4 @@
-package interfacetutorial
+package oopsproblems.interfacetutorial
 
 // Defining Interface and Implementing abstract and non-abstract method
 
